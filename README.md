@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Shuhaib
-![](https://ibb.co/f8HYQ7T)
+[![MasterHead](https://ibb.co/f8HYQ7T)]
 
 I'm a data science intern at AIO. My passion lies in the world of data analysis, science, and engineering. I specialize in Python, SQL, machine learning, Tableau, and Power BI. My journey is all about unlocking data's potential.
 
