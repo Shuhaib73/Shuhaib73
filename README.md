@@ -12,8 +12,9 @@ As a Data Scientist Trainee Intern at Technocolabs Software, I am deeply immerse
 Parameter-Efficient Fine-Tuning (PEFT), Bert, DistilBERT, Bart, LangChain, Hugging Face Transformers, RAG
 (Retrieval-Augmented Generation), Prompt Engineering, GroqCloud, NLU, Stable Diffusion
 ❖ Computer Vision: OpenCV, CNN, EasyOCR
-❖ Version Control Tool: Git, Git Bash, GitHub, GitHub Actions
+❖ Version Control Tool: Git, Git Bash, GitHub
 ❖ Web applications development: Flask, Flask-SQL Alchemy, REST API, PyMongo
+❖ MLOps: MLflow, GitHub Actions (CI/CD), DVC (Data Version Control)
 ❖ Web Scraping: BeautifulSoup, Requests
 ❖ Cloud: AWS, Render
 ❖ Platforms: Docker, Linux, PuTTY
