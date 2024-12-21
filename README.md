@@ -2,6 +2,7 @@
 
 As a Data Scientist Trainee Intern at Technocolabs Software, I am deeply immersed in the dynamic realm of data analysis, science, and engineering. My expertise lies in harnessing the power of Python, SQL, machine learning, Deep Learning, Natural Language Processing and LLMs, and Power BI to unlock the full potential of data. 
 
+```
 ❖ Languages: Python, HTML, CSS
 ❖ Databases: MySQL, PostgreSQL, MongoDB
 ❖ Vector Databases: Pinecone, Faiss
@@ -22,7 +23,7 @@ Visualization, Modeling) Statistics, Hypothesis testing.
 ❖ Data Visualization: Matplotlib, Seaborn, Power BI (DAX), Figma
 ❖ Microsoft Office: Advance Excel (Power Query, Pivot Tables, Power Pivot, Pivot Charts)
 
-
+```
 
 
 
