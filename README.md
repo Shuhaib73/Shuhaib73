@@ -1,8 +1,26 @@
 ### Hi there 👋, I'm Shuhaib
 
-As a Data Scientist Intern at Technocolabs Software, I am deeply immersed in the dynamic realm of data analysis, science, and engineering. My expertise lies in harnessing the power of Python, SQL, machine learning, and Power BI to unlock the full potential of data. Beyond traditional analytics, I delve into the realms of machine learning, Artificial Intelligence, and deep learning, unlocking the full potential of data. My professional journey revolves around seamlessly integrating AI and deep learning into the fabric of data science. I adopt a holistic approach, ensuring a comprehensive strategy for extracting actionable intelligence from diverse datasets. My commitment lies in advancing the field of data science, utilizing my expertise to creatively address complex challenges.  
+As a Data Scientist Trainee Intern at Technocolabs Software, I am deeply immersed in the dynamic realm of data analysis, science, and engineering. My expertise lies in harnessing the power of Python, SQL, machine learning, Deep Learning, Natural Language Processing and LLMs, and Power BI to unlock the full potential of data. 
 
-Skills: Python / Machine Learning / Deep Learning / Artificial Intelligence / MySQL / PostgreSQL / Power BI / Tensorflow / Keras / OpenCV / Mediapipe / YOLO / Tableau / Web Scraping / Git / ETL / Advance Excel / Figma.
+❖ Languages: Python, HTML, CSS
+❖ Databases: MySQL, PostgreSQL, MongoDB
+❖ Vector Databases: Pinecone, Faiss
+❖ Machine Learning: Scikit-learn, NumPy, Pandas, Pickle, SciPy
+❖ Deep Learning: TensorFlow, Keras, ANN (Artificial Neural Network), CNN (Convolutional Neural Network), PyTorch
+❖ Natural Language Processing (NLP) and LLMS: NLTK, LSTM, RNN, GloVe, Word2vec, Transformers, LLM,
+Parameter-Efficient Fine-Tuning (PEFT), Bert, DistilBERT, Bart, LangChain, Hugging Face Transformers, RAG
+(Retrieval-Augmented Generation), Prompt Engineering, GroqCloud, NLU, Stable Diffusion
+❖ Computer Vision: OpenCV, CNN, EasyOCR
+❖ Version Control Tool: Git, Git Bash, GitHub, GitHub Actions
+❖ Web applications development: Flask, Flask-SQL Alchemy, REST API, PyMongo
+❖ Web Scraping: BeautifulSoup, Requests
+❖ Cloud: AWS, Render
+❖ Platforms: Docker, Linux, PuTTY
+❖ Integrated Development Environments (IDEs): Visual Studio Code (VS Code), Google Colab, Kaggle
+❖ Data Science & Miscellaneous Technologies: ETL, Data science pipeline (Cleansing, Wrangling,
+Visualization, Modeling) Statistics, Hypothesis testing.
+❖ Data Visualization: Matplotlib, Seaborn, Power BI (DAX), Figma
+❖ Microsoft Office: Advance Excel (Power Query, Pivot Tables, Power Pivot, Pivot Charts)
 
 
 
