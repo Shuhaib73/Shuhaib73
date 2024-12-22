@@ -3,6 +3,7 @@
 As a Data Scientist Trainee Intern at Technocolabs Software, I am deeply immersed in the dynamic realm of data analysis, science, and engineering. My expertise lies in harnessing the power of Python, SQL, machine learning, Deep Learning, Natural Language Processing and LLMs, and Power BI to unlock the full potential of data. 
 
 ```
+
 ❖ Languages: Python, HTML, CSS
 ❖ Databases: MySQL, PostgreSQL, MongoDB
 ❖ Vector Databases: Pinecone, Faiss
@@ -12,9 +13,8 @@ As a Data Scientist Trainee Intern at Technocolabs Software, I am deeply immerse
 Parameter-Efficient Fine-Tuning (PEFT), Bert, DistilBERT, Bart, LangChain, Hugging Face Transformers, RAG
 (Retrieval-Augmented Generation), Prompt Engineering, GroqCloud, NLU, Stable Diffusion
 ❖ Computer Vision: OpenCV, CNN, EasyOCR
-❖ Version Control Tool: Git, Git Bash, GitHub
+❖ Version Control Tool and MLOps: Git, Git Bash, GitHub, GitHub Actions(CI/CD), MLflow
 ❖ Web applications development: Flask, Flask-SQL Alchemy, REST API, PyMongo
-❖ MLOps: MLflow, GitHub Actions (CI/CD), DVC (Data Version Control)
 ❖ Web Scraping: BeautifulSoup, Requests
 ❖ Cloud: AWS, Render
 ❖ Platforms: Docker, Linux, PuTTY
@@ -25,6 +25,7 @@ Visualization, Modeling) Statistics, Hypothesis testing.
 ❖ Microsoft Office: Advance Excel (Power Query, Pivot Tables, Power Pivot, Pivot Charts)
 
 ```
+
 
 
 
