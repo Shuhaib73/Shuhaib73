@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Shuhaib
 
-As a Data Scientist Trainee Intern at Technocolabs Software, I am deeply immersed in the dynamic realm of data analysis, science, and engineering. My expertise lies in harnessing the power of Python, SQL, machine learning, Deep Learning, Natural Language Processing and LLMs, and Power BI to unlock the full potential of data. 
+As an AI/ML Engineer | Data Scientist, I am deeply immersed in the dynamic realms of data analysis, machine learning, and artificial intelligence. My expertise lies in leveraging Python, SQL, machine learning, deep learning, natural language processing (NLP), large language models (LLMs), and Power BI to unlock the full potential of data and drive impactful solutions.
 
 ```
 
