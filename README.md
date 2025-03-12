@@ -4,7 +4,7 @@ As an AI/ML Engineer | Data Scientist, I am deeply immersed in the dynamic realm
 
 ```
 
-❖ Languages: Python, HTML, CSS
+❖ Languages: Python, HTML, CSS, JavaScript
 ❖ Databases: MySQL, PostgreSQL, MongoDB
 ❖ Vector Databases: Pinecone, Faiss
 ❖ Machine Learning: Scikit-learn, NumPy, Pandas, Pickle, SciPy
@@ -14,7 +14,7 @@ Parameter-Efficient Fine-Tuning (PEFT), Bert, DistilBERT, Bart, LangChain, Huggi
 (Retrieval-Augmented Generation), Prompt Engineering, GroqCloud, NLU, Stable Diffusion
 ❖ Computer Vision: OpenCV, CNN, EasyOCR
 ❖ Version Control Tool and MLOps: Git, Git Bash, GitHub, GitHub Actions(CI/CD), MLflow
-❖ Web applications development: Flask, Flask-SQL Alchemy, REST API, PyMongo
+❖ Web applications development: Django, Flask, Flask-SQL Alchemy, REST API, PyMongo
 ❖ Web Scraping: BeautifulSoup, Requests
 ❖ Cloud: AWS, Render
 ❖ Platforms: Docker, Linux, PuTTY
